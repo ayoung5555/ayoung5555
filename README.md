@@ -18,7 +18,3 @@
 - 🌐 **Web Development:** HTML, CSS, React, Next.js
 - 📊 **Database Familiarity:** SQL, MongoDB
 - 🚀 **Other Interests:** UX Design, Product Management, Swimming
-
-### Latest Side Project
-
-- [Automated Study Room Bookings](https://github.com/ayoung5555/Study-Room-Getter) - Automation script using Python and Selenium to reserve rooms at the library on a weekly basis, using 2FA for confirmation.
