@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👨‍💻 **Experience** Software Developer Intern @ Ally - Summer 2023
+- 👨‍💻 **Experience:** Software Developer Intern @ Ally - Summer 2023
 - 🎓 **Education:** Junior studying Computer Science
 - 📍 **Location:** University of Michigan - Ann Arbor
 - 📚 **Courses:**
