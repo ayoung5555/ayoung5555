@@ -6,6 +6,8 @@
 - 🎓 **Education:** Junior studying Computer Science
 - 📍 **Location:** University of Michigan - Ann Arbor
 - 📚 **Courses:**
+  - EECS 497 - Human Centered Software Design and Development
+  - EECS 481 - Software Engineering
   - EECS 485 - Web Systems
   - EECS 484 - Database Management Systems
   - EECS 376 - Foundations of Computer Science
@@ -17,4 +19,4 @@
 - 💻 **Programming Languages:** C/C++, Java, Python, Javascript, Typescript
 - 🌐 **Web Development:** HTML, CSS, React, Next.js
 - 📊 **Database Familiarity:** SQL, MongoDB
-- 🚀 **Other Interests:** UX Design, Product Management, Swimming
+- 🚀 **Other Interests:** Product Management, UX Design, Swimming
