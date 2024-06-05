@@ -2,8 +2,8 @@
 
 ### About Me
 
-- 👨‍💻 **Experience:** Software Developer Intern @ Ally - Summer 2023
-- 🎓 **Education:** Junior studying Computer Science
+- 👨‍💻 **Experience:** Growth Intern @ GitStart (YC S19), Software Developer Intern @ Ally (2023)
+- 🎓 **Education:** Rising Senior studying Computer Science
 - 📍 **Location:** University of Michigan - Ann Arbor
 - 📚 **Courses:**
   - EECS 497 - Human Centered Software Design and Development
