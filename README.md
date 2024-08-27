@@ -5,7 +5,7 @@ Hi, I'm Andrew 👋
 - 👨‍💻 **Experience:** Growth Intern @ GitStart (YC S19), Software Developer Intern @ Ally (2023)
 - 🎓 **Education:** Senior studying Computer Science
 - 📍 **Location:** University of Michigan - Ann Arbor
-- 📚 **Current Coursework:**
+- 📚 **Current and Recent Coursework:**
   - EECS 398 - Practical Data Science
   - SI 425 - User Modeling
   - SI 422 - Needs Assessment and Usability Evaluation
