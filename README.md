@@ -3,7 +3,7 @@ Hi, I'm Andrew 👋
 ### About Me
 
 - 👨‍💻 **Experience:** Growth Intern @ GitStart (YC S19), Software Developer Intern @ Ally (2023)
-- 🎓 **Education:** Senior studying Computer Science
+- 🎓 **Education:** Computer Science - Graduating Spring 2025
 - 📍 **Location:** University of Michigan - Ann Arbor
 - 📚 **Currently Taking:**
   - EECS 398 - Practical Data Science
@@ -12,7 +12,7 @@ Hi, I'm Andrew 👋
 
 ### Skills and Interests
 
-- 💻 **Programming Languages:** Python, Javascript, C/C++, Java
-- 🌐 **Web Development:** HTML, CSS, React, Next.js
+- 💻 **Programming Languages:** Python, Javascript, C/C++
+- 🌐 **Web Development:** HTML, CSS, React, Next.js, Astro.js
 - 📊 **Database Familiarity:** SQL, MongoDB, SQLite
-- 🚀 **Other Interests:** Product Management, UX Design, Swimming
+- 🚀 **Interests:** Product Management, UX Design, Swimming
