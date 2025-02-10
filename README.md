@@ -2,17 +2,26 @@ Hi, I'm Andrew 👋
 
 ### About Me
 
-- 👨‍💻 **Experience:** Growth Intern @ GitStart (YC S19), Software Developer Intern @ Ally (2023)
-- 🎓 **Education:** Computer Science - Graduating Spring 2025
-- 📍 **Location:** University of Michigan - Ann Arbor
-- 📚 **Currently Taking:**
+- 👨‍💻 **Experience:**
+    - 2024: Growth Intern @ GitStart (YC S19)
+    - 2023: Software Developer Intern @ Ally
+    - 2018-20: Freelance Augmented Reality Developer
+- 🎓 **Education:** Computer Science – Graduating Spring 2025
+- 📍 **Location:** University of Michigan – Ann Arbor
+- 📚 **Favorite Courses I've Taken:**
   - EECS 398 - Practical Data Science
-  - SI 425 - User Modeling
-  - SI 422 - Needs Assessment and Usability Evaluation
+  - EECS 485 - Web Systems
+  - SI 425 - User Modeling (Behavioral Economics)
+  - EECS 497 - Human Centered Software Engineering
+  - EECS 281 - Data Structures & Algorithms
+  - SI 334 - Persuasion and Social Influence
+  - EECS 484 - Database Management Systems
+  - EECS 481 - Software Engineering
+  - TO 414 - Advanced Analytics
 
 ### Skills and Interests
 
 - 💻 **Programming Languages:** Python, Javascript, C/C++
-- 🌐 **Web Development:** HTML, CSS, React, Next.js, Astro.js
-- 📊 **Database Familiarity:** SQL, MongoDB, SQLite
-- 🚀 **Interests:** Product Management, UX Design, Swimming
+- 🌐 **Web Development:** HTML, CSS, React, Node.js
+- 📊 **Database Familiarity:** SQL, MongoDB, Postgres
+- 🚀 **Additional Interests:** Product Management, UX Design, Swimming
