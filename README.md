@@ -1,6 +1,6 @@
-#### Hi, I'm Andrew 👋
+### Hi, I'm Andrew 👋
 
-### About Me
+#### About Me
 
 - 👨‍💻 **Experience:**
     - Currently: Marketing Associate @ Databento
@@ -9,7 +9,7 @@
     - 2018-20: Freelance Augmented Reality Developer
 - 🎓 **Education:** Computer Science @ University of Michigan – Ann Arbor
 
-### Skills and Interests
+#### Skills and Interests
 
 - 💻 **Programming Languages:** Python, Javascript, C/C++
 - 🌐 **Web Development:** HTML, CSS, React, Node.js
